@@ -2,7 +2,7 @@
 
 > One Linux command a day, documented, tested, and explained — a daily-streak project to master the terminal from the ground up.
 
-![Streak](https://img.shields.io/badge/Streak-Day%2001-brightgreen) ![Commands](https://img.shields.io/badge/Commands%20Documented-1-blue) ![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Streak](https://img.shields.io/badge/Streak-Day%2001-brightgreen?style=for-the-badge) ![Commands Documented](https://img.shields.io/badge/Commands%20Documented-1-blue?style=for-the-badge) ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
 ---
 
