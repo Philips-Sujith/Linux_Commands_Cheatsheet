@@ -1,6 +1,6 @@
 ![Day](https://img.shields.io/badge/Day-01-informational?style=for-the-badge) ![Category](https://img.shields.io/badge/Category-File%20Navigation-blue?style=for-the-badge) ![Updated](https://img.shields.io/badge/Updated-11%20Aug%202026-lightgrey?style=for-the-badge)
 
-# pwd
+# `pwd`
 
 > Know exactly where you stand in the filesystem.
 
