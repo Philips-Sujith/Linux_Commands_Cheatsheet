@@ -2,7 +2,11 @@
 
 > One Linux command a day, documented, tested, and explained — a daily-streak project to master the terminal from the ground up.
 
+<<<<<<< HEAD
 ![Streak](https://img.shields.io/badge/Streak-Day%2001-brightgreen?style=for-the-badge) ![Commands Documented](https://img.shields.io/badge/Commands%20Documented-1-blue?style=for-the-badge) ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
+=======
+![Streak](https://img.shields.io/badge/Streak-Day%2002-brightgreen) ![Commands](https://img.shields.io/badge/Commands%20Documented-2-blue) ![License](https://img.shields.io/badge/License-MIT-lightgrey)
+>>>>>>> db26495 (Day 02: ls)
 
 ---
 
@@ -28,7 +32,12 @@ linux-commands-cheatsheet/
 <!-- START_TABLE -->
 | Day | Command | Category | File |
 |-----|---------|----------|------|
+<<<<<<< HEAD
 | 01 | `pwd` | File Navigation | [view](cheatsheet/pwd.md) |
+=======
+| 01 | `pwd` | File Navigation | [view](cheatsheet/day01-pwd.md) |
+| 02 | ``ls`` | File Navigation | [view](cheatsheet/day02-ls.md) |
+>>>>>>> db26495 (Day 02: ls)
 <!-- END_TABLE -->
 
 ## How Entries Are Generated
