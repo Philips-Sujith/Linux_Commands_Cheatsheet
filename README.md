@@ -28,7 +28,7 @@ linux-commands-cheatsheet/
 <!-- START_TABLE -->
 | Day | Command | Category | File |
 |-----|---------|----------|------|
-| 01 | `pwd` | File Navigation | [view](cheatsheet/day01-pwd.md) |
+| 01 | `pwd` | File Navigation | [view](cheatsheet/pwd.md) |
 <!-- END_TABLE -->
 
 ## How Entries Are Generated
