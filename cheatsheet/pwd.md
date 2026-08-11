@@ -32,6 +32,7 @@ pwd [OPTIONS]
 ## Execution & Output
 
 ```text
+sujith@Zylin:~$ pwd
 /home/sujith/linux-commands-cheatsheet
 ```
 
