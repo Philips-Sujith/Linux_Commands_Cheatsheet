@@ -1,0 +1,8 @@
+# Local automation scripts — private, not part of the public repo
+bin/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
