@@ -2,7 +2,7 @@
 
 > One Linux command a day, documented, tested, and explained — a daily-streak project to master the terminal from the ground up.
 
-![Streak](https://img.shields.io/badge/Streak-Day%204-brightgreen?style=for-the-badge) ![Commands](https://img.shields.io/badge/Commands%20Documented-2-blue?style=for-the-badge) ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-Day%204-brightgreen?style=for-the-badge) ![Commands](https://img.shields.io/badge/Commands%20Documented-3-blue?style=for-the-badge) ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 
 ---
 
@@ -28,6 +28,7 @@ linux-commands-cheatsheet/
 <!-- START_TABLE -->
 | Day | Command | Category | File |
 |-----|---------|----------|------|
+| 2 | `ls` | File Navigation | [view](cheatsheet/day02-ls.md) |
 | 3 | `cd` | File Navigation | [view](cheatsheet/3.%20cd.md) |
 | 4 | `mkdir` | File Operations | [view](cheatsheet/4.%20mkdir.md) |
 <!-- END_TABLE -->
