@@ -3,7 +3,7 @@
 > One Linux command a day, documented, tested, and explained — a daily-streak project to master the terminal from the ground up.
 
 <!-- START_BADGES -->
-![Streak](https://img.shields.io/badge/Streak-Day%2010-brightgreen?style=for-the-badge) ![Commands](https://img.shields.io/badge/Commands%20Documented-10-blue?style=for-the-badge) ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-Day%2011-brightgreen?style=for-the-badge) ![Commands](https://img.shields.io/badge/Commands%20Documented-11-blue?style=for-the-badge) ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 <!-- END_BADGES -->
 
 ---
@@ -40,6 +40,7 @@ linux-commands-cheatsheet/
 | 8 | `cp` | File Operations | [view](cheatsheet/8.%20cp.md) |
 | 9 | `mv` | File Operations | [view](cheatsheet/9.%20mv.md) |
 | 10 | `cat` | Text Processing | [view](cheatsheet/10.%20cat.md) |
+| 11 | `echo` | Text Processing | [view](cheatsheet/11.%20echo.md) |
 <!-- END_TABLE -->
 
 ## How Entries Are Generated
