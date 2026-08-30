@@ -3,7 +3,7 @@
 > One Linux command a day, documented, tested, and explained — a daily-streak project to master the terminal from the ground up.
 
 <!-- START_BADGES -->
-![Streak](https://img.shields.io/badge/Streak-Day%2015-brightgreen?style=for-the-badge) ![Commands](https://img.shields.io/badge/Commands%20Documented-15-blue?style=for-the-badge) ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-Day%2016-brightgreen?style=for-the-badge) ![Commands](https://img.shields.io/badge/Commands%20Documented-16-blue?style=for-the-badge) ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
 <!-- END_BADGES -->
 
 ---
@@ -45,6 +45,7 @@ linux-commands-cheatsheet/
 | 13 | `date` | System Info & Users | [view](cheatsheet/13.%20date.md) |
 | 14 | `history` | Shell Productivity | [view](cheatsheet/14.%20history.md) |
 | 15 | `less` | Text Processing | [view](cheatsheet/15.%20less.md) |
+| 16 | `more` | Text Processing | [view](cheatsheet/16.%20more.md) |
 <!-- END_TABLE -->
 
 ## How Entries Are Generated
