@@ -10,7 +10,7 @@
 
 ## About This Project
 
-This repository is a running, self-maintained reference guide to the Linux command line. Every entry follows the same clean, professional template — description, syntax, options, arguments, and real terminal output — so the whole collection stays consistent and easy to scan.
+This repository is a running, self-maintained reference guide to the Linux command line. Every entry follows the same clean, professional template — description, syntax, options, arguments and real terminal output — so the whole collection stays consistent and easy to scan.
 
 The goal is simple: **one command a day, no skipped days, no shortcuts on quality.**
 
